@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  a GRUB Theme for tha Slipknot "maggots"
+  a GRUB Theme for y'all Slipknot "maggots" out there
 </div>
 
 ### ⚙️ Installation ( Manual )
